@@ -7,19 +7,11 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2025/04/05/My-New-Post/",
-            "url": "http://example.com/2025/04/05/My-New-Post/",
+            "id": "http://example.com/2025/04/05/BLOG%E6%A6%82%E8%BF%B0/",
+            "url": "http://example.com/2025/04/05/BLOG%E6%A6%82%E8%BF%B0/",
             "title": "BLOG概述",
             "date_published": "2025-04-05T06:14:06.000Z",
             "content_html": "<h2 id=\"blog概述\"><a class=\"anchor\" href=\"#blog概述\">#</a> BLOG 概述</h2>\n<h3 id=\"缘由\"><a class=\"anchor\" href=\"#缘由\">#</a> 缘由</h3>\n<p>话说某天做实验的时候，意外翻到了几位神秘学长学姐留下的 “圣遗物”—— 笔记详细到让人落泪，代码整洁到怀疑人生。想了想，要不我也建个自己的小角落，记录下大学四年里踩过的坑、熬过的夜，还有偶尔冒出来的生活碎碎念。或许内容不够系统、更新不够规律，但是真实地记录下了我的成长，也许哪天能帮到和我一样在路上的你。</p>\n<h3 id=\"展望\"><a class=\"anchor\" href=\"#展望\">#</a> 展望</h3>\n<p>计划是两周一更（计划还是要有的），哪怕最后变成 “月更”、“季更”、“年终总结”，只要我还在折腾，就不会弃坑（大概也许应该有可能）。如果有一天你也偶然翻到这里，发现某条笔记对你有用，那就不枉我的一番心血了。就像我曾经在别人的荫蔽下乘凉那样。现在，是我为后来人栽下一棵树的时候了。</p>\n",
-            "tags": []
-        },
-        {
-            "id": "http://example.com/2025/04/04/hello-world/",
-            "url": "http://example.com/2025/04/04/hello-world/",
-            "title": "Hello World",
-            "date_published": "2025-04-04T14:26:07.940Z",
-            "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
             "tags": []
         }
     ]
